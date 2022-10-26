@@ -8,13 +8,22 @@
         "subheading": "",
         "link_text": "Watch",
         "link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_align": "vertical-center horizontal-center",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "section_height": "650px"
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
       "settings": {
+        "title": "Most popular",
+        "collection1": "frontpage",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
       }
     },
     "rich-text": {
@@ -23,11 +32,14 @@
         "heading": {
           "type": "heading",
           "settings": {
+            "title": "Rich text"
           }
         },
         "text": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
@@ -36,6 +48,9 @@
         "text"
       ],
       "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     },
     "featured-collections": {
@@ -45,6 +60,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "focal_point": "center center",
             "size": "wide"
           }
         },
@@ -52,6 +68,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "focal_point": "center center",
             "size": "square-small"
           }
         },
@@ -59,6 +76,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "focal_point": "center center",
             "size": "square-small"
           }
         },
@@ -66,6 +84,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "focal_point": "center center",
             "size": "square-small"
           }
         },
@@ -73,6 +92,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "focal_point": "center center",
             "size": "square-small"
           }
         },
@@ -80,6 +100,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "focal_point": "center center",
             "size": "wide"
           }
         }
@@ -94,7 +115,8 @@
       ],
       "settings": {
         "title": "",
-        "divider": false
+        "divider": false,
+        "enable_gutter": false
       }
     },
     "fading-images": {
@@ -103,7 +125,6 @@
         "1498501481980-0": {
           "type": "image",
           "settings": {
-            "image": "",
             "focal_point": "center center",
             "slide_title1": "Beautifully animated",
             "slide_title2": "titles and images"
@@ -112,7 +133,6 @@
         "1498501481980-1": {
           "type": "image",
           "settings": {
-            "image": "",
             "focal_point": "center center",
             "slide_title1": "Use this section",
             "slide_title2": "to impress"
@@ -121,7 +141,6 @@
         "1498501481980-2": {
           "type": "image",
           "settings": {
-            "image": "",
             "focal_point": "center center",
             "slide_title1": "And highlight",
             "slide_title2": "important details"
@@ -134,9 +153,18 @@
         "1498501481980-2"
       ],
       "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
         "slide_speed": 5,
         "color_overlay": "#000000",
-        "color_overlay_opacity": 30
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "collection-callout": {
@@ -150,6 +178,7 @@
         "cta_link1": "",
         "cta_text2": "Shop All",
         "cta_link2": "",
+        "layout": "right",
         "divider": false
       }
     },
@@ -161,9 +190,11 @@
         "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
         "button_label": "",
         "button_link": "",
-        "image": "",
+        "focal_point": "center",
         "layout": "left",
-        "height": 650
+        "height": 650,
+        "parallax": true,
+        "parallax_direction": "top"
       }
     }
   },

@@ -170,7 +170,7 @@
     "collection-callout": {
       "type": "collection-callout",
       "settings": {
-        "collection": "",
+        "collection": "frontpage",
         "subtitle": "Brand new",
         "title": "Collection callout",
         "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",

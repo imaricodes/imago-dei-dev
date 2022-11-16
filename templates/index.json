@@ -421,6 +421,61 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
+    },
+    "607be48a-b728-4766-a3e8-6ac3c6523022": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-1": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-4": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-0",
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-1",
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-2",
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-3",
+        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-4"
+      ],
+      "settings": {
+        "featured_product": "ra",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
     }
   },
   "order": [
@@ -434,6 +489,7 @@
     "fading-images",
     "background-image-text",
     "f86411fe-3d84-4f51-812b-bd53cfd30369",
-    "508e7d63-abf7-4d36-af09-2ac6e56c4559"
+    "508e7d63-abf7-4d36-af09-2ac6e56c4559",
+    "607be48a-b728-4766-a3e8-6ac3c6523022"
   ]
 }

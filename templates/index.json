@@ -15,8 +15,24 @@
         "mobile_height": "auto"
       }
     },
+    "collection-callout": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "frontpage",
+        "subtitle": "Brand new",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop",
+        "cta_link1": "",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
+      "disabled": true,
       "settings": {
         "title": "Most popular",
         "collection1": "",
@@ -28,6 +44,7 @@
     },
     "rich-text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -121,6 +138,7 @@
     },
     "fading-images": {
       "type": "fading-images",
+      "disabled": true,
       "blocks": {
         "1498501481980-0": {
           "type": "image",
@@ -167,23 +185,9 @@
         "mobile_height": "auto"
       }
     },
-    "collection-callout": {
-      "type": "collection-callout",
-      "settings": {
-        "collection": "",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
-        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop Jackets",
-        "cta_link1": "",
-        "cta_text2": "Shop All",
-        "cta_link2": "",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "background-image-text": {
       "type": "background-image-text",
+      "disabled": true,
       "settings": {
         "subtitle": "Impressive",
         "title": "Large image and text",
@@ -200,11 +204,11 @@
   },
   "order": [
     "hero-video",
+    "collection-callout",
     "featured-collection-switcher",
     "rich-text",
     "featured-collections",
     "fading-images",
-    "collection-callout",
     "background-image-text"
   ]
 }

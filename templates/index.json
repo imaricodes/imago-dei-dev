@@ -17,6 +17,7 @@
     },
     "collection-callout": {
       "type": "collection-callout",
+      "disabled": true,
       "settings": {
         "collection": "frontpage",
         "subtitle": "Brand new",
@@ -87,6 +88,7 @@
     },
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
+      "disabled": true,
       "settings": {
         "title": "Most popular",
         "collection1": "",

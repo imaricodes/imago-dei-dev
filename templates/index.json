@@ -30,6 +30,61 @@
         "divider": false
       }
     },
+    "ed37d745-5cd4-4ccf-936e-ad59d8d14e85": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-1": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-4": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0",
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-1",
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-2",
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-3",
+        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-4"
+      ],
+      "settings": {
+        "featured_product": "anubis-glasses",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
     "featured-collection-switcher": {
       "type": "featured-collection-switcher",
       "disabled": true,
@@ -40,6 +95,61 @@
         "per_row": 4,
         "view_all": true,
         "divider": false
+      }
+    },
+    "88d56c83-0f0b-4a44-81f5-2cb3c21a05ac": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-1": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-4": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-0",
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-1",
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-2",
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-3",
+        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-4"
+      ],
+      "settings": {
+        "featured_product": "osiris",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
       }
     },
     "rich-text": {
@@ -72,6 +182,7 @@
     },
     "featured-collections": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "1499789718857-0": {
           "type": "collection",
@@ -200,71 +311,17 @@
         "parallax": true,
         "parallax_direction": "top"
       }
-    },
-    "ed37d745-5cd4-4ccf-936e-ad59d8d14e85": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-1": {
-          "type": "separator",
-          "settings": {
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-2": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-4": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-1",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-2",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-3",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-4"
-      ],
-      "settings": {
-        "featured_product": "anubis-glasses",
-        "divider": false,
-        "sku_enable": false,
-        "image_size": "medium",
-        "product_zoom_enable": true,
-        "thumbnail_position": "beside",
-        "thumbnail_arrows": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted"
-      }
     }
   },
   "order": [
     "hero-video",
     "collection-callout",
+    "ed37d745-5cd4-4ccf-936e-ad59d8d14e85",
     "featured-collection-switcher",
+    "88d56c83-0f0b-4a44-81f5-2cb3c21a05ac",
     "rich-text",
     "featured-collections",
     "fading-images",
-    "background-image-text",
-    "ed37d745-5cd4-4ccf-936e-ad59d8d14e85"
+    "background-image-text"
   ]
 }

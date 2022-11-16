@@ -359,7 +359,7 @@
         "featured_product": "copy-of-sample-specs-2",
         "divider": false,
         "sku_enable": false,
-        "image_size": "medium",
+        "image_size": "large",
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
         "thumbnail_arrows": false,

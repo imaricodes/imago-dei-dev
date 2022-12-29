@@ -57,13 +57,13 @@
     style="padding-top: {{ 100 | divided_by: section.settings.logo.aspect_ratio }}%">
     <img
       class="small--hide"
-      src="{{ section.settings.logo | img_url: header_logo_size }}"
+      src="{{'logo-header-text-only.svg' | asset_url }}"
       srcset="{{ section.settings.logo | img_url: header_logo_size }} 1x, {{ section.settings.logo | img_url: header_logo_size, scale: 2 }} 2x"
       alt="{{ section.settings.logo.alt | default: shop.name }}"
       itemprop="logo">
     <img
       class="medium-up--hide"
-      src="{{ section.settings.logo | img_url: header_logo_size_mobile }}"
+      src="{{ 'logo-header-text-only.svg' | asset_url }}"
       srcset="{{ section.settings.logo | img_url: header_logo_size_mobile }} 1x, {{ section.settings.logo | img_url: header_logo_size_mobile, scale: 2 }} 2x"
       alt="{{ section.settings.logo.alt | default: shop.name }}">
   </a>

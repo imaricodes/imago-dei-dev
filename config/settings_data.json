@@ -61,10 +61,18 @@
       "header": {
         "type": "header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/header-logo.png",
+          "desktop_logo_width": 200,
+          "mobile_logo_width": 140,
           "main_menu_link_list": "main-menu",
+          "main_menu_alignment": "left-center",
+          "header_sticky": true,
           "sticky_index": true,
           "sticky_collection": false,
-          "show_announcement": true
+          "show_announcement": true,
+          "announcement_text": "Free shipping and returns",
+          "announcement_link": "",
+          "announcement_closable": false
         }
       },
       "newsletter-popup": {
@@ -74,6 +82,7 @@
             "type": "header",
             "disabled": true,
             "settings": {
+              "reminder_label": "Get 10% off"
             }
           }
         },
@@ -81,20 +90,34 @@
           "reminder-block"
         ],
         "settings": {
+          "mode": false,
+          "disable_for_account_holders": true,
+          "popup_seconds": 5,
+          "popup_days": 30,
+          "popup_title": "Sign up and save",
+          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+          "image_position": "left",
+          "show_social_icons": false,
+          "enable_newsletter": true,
+          "button_label": "Optional button",
+          "button_link": ""
         }
       },
       "footer": {
         "type": "footer",
         "blocks": {
-          "1494292481350": {
-            "type": "logo_social",
+          "1494301487049": {
+            "type": "menu",
             "settings": {
+              "show_footer_title": true,
+              "menu": "footer",
               "container_width": 20
             }
           },
           "1494292485313": {
             "type": "menu",
             "settings": {
+              "show_footer_title": true,
               "menu": "main-menu",
               "container_width": 20
             }
@@ -102,13 +125,16 @@
           "1494292487693": {
             "type": "newsletter",
             "settings": {
+              "show_footer_title": true,
+              "title": "Sign up and save",
+              "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
               "container_width": 33
             }
           },
-          "1494301487049": {
-            "type": "menu",
+          "1494292481350": {
+            "type": "logo_social",
             "settings": {
-              "menu": "footer",
+              "desktop_logo_height": 50,
               "container_width": 20
             }
           }
@@ -120,9 +146,82 @@
           "1494292481350"
         ],
         "settings": {
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_currency_flags": true,
+          "show_payment_icons": false,
+          "colorize_payment_icons": false,
+          "show_copyright": false,
+          "copyright_text": ""
+        }
+      },
+      "age-verification-popup": {
+        "type": "age-verification-popup",
+        "settings": {
+          "enable_age_verification_popup": false,
+          "enable_test_mode": false,
+          "blur_image": false,
+          "heading": "Confirm your age",
+          "text": "<p>Are you 18 years old or older?<\/p>",
+          "decline_button_label": "No I'm not",
+          "approve_button_label": "Yes I am",
+          "decline_heading": "Come back when you're older",
+          "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+          "return_button_label": "Oops, I entered incorrectly"
+        }
+      },
+      "footer-promotions": {
+        "type": "footer-promotions",
+        "blocks": {
+          "footer-promotions-0": {
+            "type": "promotion",
+            "settings": {
+              "enable_image": true,
+              "image_width": 650,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          },
+          "footer-promotions-1": {
+            "type": "promotion",
+            "settings": {
+              "enable_image": true,
+              "image_width": 650,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          },
+          "footer-promotions-2": {
+            "type": "promotion",
+            "settings": {
+              "enable_image": true,
+              "image_width": 650,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "footer-promotions-0",
+          "footer-promotions-1",
+          "footer-promotions-2"
+        ],
+        "settings": {
+          "hide_homepage": false,
+          "image_size": "wide",
+          "align_text": "left"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Classic": {

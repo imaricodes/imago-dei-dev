@@ -507,6 +507,17 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "cd461e36-f7a5-4507-81bc-b9925b1bfa7f": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "Horus",
+        "collection1": "the-hours-collection",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -522,6 +533,7 @@
     "f86411fe-3d84-4f51-812b-bd53cfd30369",
     "607be48a-b728-4766-a3e8-6ac3c6523022",
     "808643b9-9ab5-4ef0-9c85-72e612494f2f",
-    "2b6a3e65-62c5-4eed-bfc0-cc35e7649474"
+    "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",
+    "cd461e36-f7a5-4507-81bc-b9925b1bfa7f"
   ]
 }

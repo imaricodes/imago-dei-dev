@@ -518,6 +518,21 @@
         "divider": false
       }
     },
+    "65fa6c20-ee11-44aa-bc92-419243905f73": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "the-anubis-collection",
+        "subtitle": "Brand new",
+        "title": "The Anubis Collection",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop",
+        "cta_link1": "",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474": {
       "type": "featured-collection-switcher",
       "settings": {
@@ -623,6 +638,7 @@
     "607be48a-b728-4766-a3e8-6ac3c6523022",
     "808643b9-9ab5-4ef0-9c85-72e612494f2f",
     "986edf62-7ca0-412f-af0f-fbf6c992ac44",
+    "65fa6c20-ee11-44aa-bc92-419243905f73",
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",
     "cd461e36-f7a5-4507-81bc-b9925b1bfa7f",
     "df00c690-2ae4-4800-bcce-f0a45a13e8a9"

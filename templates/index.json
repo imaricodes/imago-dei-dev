@@ -429,6 +429,84 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
+    },
+    "808643b9-9ab5-4ef0-9c85-72e612494f2f": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-0",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-1",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-2",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-3",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-4",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-5"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "divider": false,
+        "enable_gutter": false
+      }
+    },
+    "2b6a3e65-62c5-4eed-bfc0-cc35e7649474": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "Anubis",
+        "collection1": "the-anubis-collection",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -442,6 +520,8 @@
     "fading-images",
     "background-image-text",
     "f86411fe-3d84-4f51-812b-bd53cfd30369",
-    "607be48a-b728-4766-a3e8-6ac3c6523022"
+    "607be48a-b728-4766-a3e8-6ac3c6523022",
+    "808643b9-9ab5-4ef0-9c85-72e612494f2f",
+    "2b6a3e65-62c5-4eed-bfc0-cc35e7649474"
   ]
 }

@@ -531,7 +531,7 @@
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-0": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "the-hours-collection",
             "focal_point": "center center",
             "size": "wide"
           }
@@ -541,7 +541,7 @@
           "settings": {
             "collection": "",
             "focal_point": "center center",
-            "size": "square-small"
+            "size": "wide"
           }
         },
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-2": {

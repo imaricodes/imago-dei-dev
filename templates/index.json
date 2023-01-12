@@ -17,7 +17,6 @@
     },
     "collection-callout": {
       "type": "collection-callout",
-      "disabled": true,
       "settings": {
         "collection": "the-hours-collection",
         "subtitle": "Brand new",

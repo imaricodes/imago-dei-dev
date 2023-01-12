@@ -182,7 +182,6 @@
     },
     "featured-collections": {
       "type": "featured-collections",
-      "disabled": true,
       "blocks": {
         "1499789718857-0": {
           "type": "collection",
@@ -195,9 +194,9 @@
         "1499789718857-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "the-hours-collection",
             "focal_point": "center center",
-            "size": "square-small"
+            "size": "wide"
           }
         },
         "1499789718857-2": {
@@ -231,6 +230,14 @@
             "focal_point": "center center",
             "size": "wide"
           }
+        },
+        "5cc961ae-bdb1-457c-b202-7ede968c3148": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
         }
       },
       "block_order": [
@@ -239,7 +246,8 @@
         "1499789718857-2",
         "1499789718857-3",
         "1499789718857-4",
-        "1499789718857-5"
+        "1499789718857-5",
+        "5cc961ae-bdb1-457c-b202-7ede968c3148"
       ],
       "settings": {
         "title": "",

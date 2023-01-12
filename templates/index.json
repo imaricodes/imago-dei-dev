@@ -17,6 +17,7 @@
     },
     "collection-callout": {
       "type": "collection-callout",
+      "disabled": true,
       "settings": {
         "collection": "the-hours-collection",
         "subtitle": "Brand new",
@@ -32,6 +33,7 @@
     },
     "ed37d745-5cd4-4ccf-936e-ad59d8d14e85": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0": {
           "type": "price",
@@ -99,6 +101,7 @@
     },
     "88d56c83-0f0b-4a44-81f5-2cb3c21a05ac": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-0": {
           "type": "price",
@@ -182,6 +185,7 @@
     },
     "featured-collections": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "1499789718857-0": {
           "type": "collection",
@@ -322,6 +326,7 @@
     },
     "f86411fe-3d84-4f51-812b-bd53cfd30369": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__f86411fe-3d84-4f51-812b-bd53cfd30369-16686213155f0a019d-0": {
           "type": "price",
@@ -377,6 +382,7 @@
     },
     "607be48a-b728-4766-a3e8-6ac3c6523022": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-0": {
           "type": "price",
@@ -518,6 +524,17 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "a35b587e-d9ed-4a24-8244-82769503dd6e": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "Horus + Anubis",
+        "collection1": "the-hours-collection",
+        "collection2": "the-anubis-collection",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -534,6 +551,7 @@
     "607be48a-b728-4766-a3e8-6ac3c6523022",
     "808643b9-9ab5-4ef0-9c85-72e612494f2f",
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",
-    "cd461e36-f7a5-4507-81bc-b9925b1bfa7f"
+    "cd461e36-f7a5-4507-81bc-b9925b1bfa7f",
+    "a35b587e-d9ed-4a24-8244-82769503dd6e"
   ]
 }

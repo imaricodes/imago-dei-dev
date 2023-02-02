@@ -69,7 +69,7 @@
           "header_sticky": true,
           "sticky_index": true,
           "sticky_collection": false,
-          "show_announcement": true,
+          "show_announcement": false,
           "announcement_text": "Free shipping and returns",
           "announcement_link": "",
           "announcement_closable": false

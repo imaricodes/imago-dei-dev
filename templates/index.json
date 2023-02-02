@@ -505,6 +505,7 @@
     },
     "986edf62-7ca0-412f-af0f-fbf6c992ac44": {
       "type": "collection-callout",
+      "disabled": true,
       "settings": {
         "collection": "the-hours-collection",
         "subtitle": "Brand new",
@@ -535,6 +536,7 @@
     },
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474": {
       "type": "featured-collection-switcher",
+      "disabled": true,
       "settings": {
         "title": "Anubis",
         "collection1": "the-anubis-collection",
@@ -546,6 +548,7 @@
     },
     "cd461e36-f7a5-4507-81bc-b9925b1bfa7f": {
       "type": "featured-collection-switcher",
+      "disabled": true,
       "settings": {
         "title": "Horus",
         "collection1": "the-hours-collection",

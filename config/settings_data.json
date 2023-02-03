@@ -61,7 +61,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/header-logo.png",
+          "logo": "shopify:\/\/shop_images\/1-Trans_841x841_ab88b92f-88db-413e-9f1e-181fdcd2c7d0.png",
           "desktop_logo_width": 200,
           "mobile_logo_width": 140,
           "main_menu_link_list": "main-menu",
@@ -69,7 +69,7 @@
           "header_sticky": true,
           "sticky_index": true,
           "sticky_collection": false,
-          "show_announcement": true,
+          "show_announcement": false,
           "announcement_text": "Free shipping and returns",
           "announcement_link": "",
           "announcement_closable": false
@@ -108,6 +108,7 @@
         "blocks": {
           "1494301487049": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "show_footer_title": true,
               "menu": "footer",
@@ -175,6 +176,7 @@
         "blocks": {
           "footer-promotions-0": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "image_width": 650,
@@ -186,6 +188,7 @@
           },
           "footer-promotions-1": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "image_width": 650,
@@ -197,6 +200,7 @@
           },
           "footer-promotions-2": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "image_width": 650,
@@ -213,7 +217,7 @@
           "footer-promotions-2"
         ],
         "settings": {
-          "hide_homepage": false,
+          "hide_homepage": true,
           "image_size": "wide",
           "align_text": "left"
         }

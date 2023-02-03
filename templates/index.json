@@ -19,7 +19,7 @@
       "type": "collection-callout",
       "disabled": true,
       "settings": {
-        "collection": "frontpage",
+        "collection": "the-hours-collection",
         "subtitle": "Brand new",
         "title": "Collection callout",
         "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
@@ -33,6 +33,7 @@
     },
     "ed37d745-5cd4-4ccf-936e-ad59d8d14e85": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0": {
           "type": "price",
@@ -100,6 +101,7 @@
     },
     "88d56c83-0f0b-4a44-81f5-2cb3c21a05ac": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-0": {
           "type": "price",
@@ -196,9 +198,9 @@
         "1499789718857-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "the-hours-collection",
             "focal_point": "center center",
-            "size": "square-small"
+            "size": "wide"
           }
         },
         "1499789718857-2": {
@@ -232,6 +234,14 @@
             "focal_point": "center center",
             "size": "wide"
           }
+        },
+        "5cc961ae-bdb1-457c-b202-7ede968c3148": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
         }
       },
       "block_order": [
@@ -240,7 +250,8 @@
         "1499789718857-2",
         "1499789718857-3",
         "1499789718857-4",
-        "1499789718857-5"
+        "1499789718857-5",
+        "5cc961ae-bdb1-457c-b202-7ede968c3148"
       ],
       "settings": {
         "title": "",
@@ -315,6 +326,7 @@
     },
     "f86411fe-3d84-4f51-812b-bd53cfd30369": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__f86411fe-3d84-4f51-812b-bd53cfd30369-16686213155f0a019d-0": {
           "type": "price",
@@ -370,6 +382,7 @@
     },
     "607be48a-b728-4766-a3e8-6ac3c6523022": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-0": {
           "type": "price",
@@ -422,6 +435,196 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
+    },
+    "808643b9-9ab5-4ef0-9c85-72e612494f2f": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-0",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-1",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-2",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-3",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-4",
+        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-5"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "divider": false,
+        "enable_gutter": false
+      }
+    },
+    "986edf62-7ca0-412f-af0f-fbf6c992ac44": {
+      "type": "collection-callout",
+      "disabled": true,
+      "settings": {
+        "collection": "the-hours-collection",
+        "subtitle": "Brand new",
+        "title": "The Horus Collection",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop",
+        "cta_link1": "",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "65fa6c20-ee11-44aa-bc92-419243905f73": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "the-anubis-collection",
+        "subtitle": "Brand new",
+        "title": "The Anubis Collection",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop",
+        "cta_link1": "",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "2b6a3e65-62c5-4eed-bfc0-cc35e7649474": {
+      "type": "featured-collection-switcher",
+      "disabled": true,
+      "settings": {
+        "title": "Anubis",
+        "collection1": "the-anubis-collection",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "cd461e36-f7a5-4507-81bc-b9925b1bfa7f": {
+      "type": "featured-collection-switcher",
+      "disabled": true,
+      "settings": {
+        "title": "Horus",
+        "collection1": "the-hours-collection",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "df00c690-2ae4-4800-bcce-f0a45a13e8a9": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-hours-collection",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-anubis-collection",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-3": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        }
+      },
+      "block_order": [
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-0",
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-1",
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-5",
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-2",
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-3",
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-4"
+      ],
+      "settings": {
+        "title": "Imago Dei Collections",
+        "divider": true,
+        "enable_gutter": false
+      }
     }
   },
   "order": [
@@ -435,6 +638,12 @@
     "fading-images",
     "background-image-text",
     "f86411fe-3d84-4f51-812b-bd53cfd30369",
-    "607be48a-b728-4766-a3e8-6ac3c6523022"
+    "607be48a-b728-4766-a3e8-6ac3c6523022",
+    "808643b9-9ab5-4ef0-9c85-72e612494f2f",
+    "986edf62-7ca0-412f-af0f-fbf6c992ac44",
+    "65fa6c20-ee11-44aa-bc92-419243905f73",
+    "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",
+    "cd461e36-f7a5-4507-81bc-b9925b1bfa7f",
+    "df00c690-2ae4-4800-bcce-f0a45a13e8a9"
   ]
 }

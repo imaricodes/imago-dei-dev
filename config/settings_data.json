@@ -108,6 +108,7 @@
         "blocks": {
           "1494301487049": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "show_footer_title": true,
               "menu": "footer",

@@ -144,7 +144,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Return Policy",
-              "text": "<p>Link to policy here<\/p>",
+              "text": "<p>Return Policy (link)<\/p><p>Privacy Policy (link)<\/p><p>Terms and Conditions (link)<\/p><p>Shipping Policy (link)<\/p><p>Paymnet Policy (link)<\/p><p><\/p>",
               "container_width": 20
             }
           }

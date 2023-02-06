@@ -138,13 +138,23 @@
               "desktop_logo_height": 50,
               "container_width": 20
             }
+          },
+          "07396db0-2e27-4de2-8c1c-5d77ebbf125d": {
+            "type": "custom",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Return Policy",
+              "text": "<p>Add your own custom text here.<\/p>",
+              "container_width": 20
+            }
           }
         },
         "block_order": [
           "1494301487049",
           "1494292485313",
           "1494292487693",
-          "1494292481350"
+          "1494292481350",
+          "07396db0-2e27-4de2-8c1c-5d77ebbf125d"
         ],
         "settings": {
           "show_locale_selector": true,

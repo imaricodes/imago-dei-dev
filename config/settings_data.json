@@ -144,7 +144,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Policies",
-              "text": "<p>Payment Policy (link)<\/p><p>Return Policy (link)<\/p><p>Privacy Policy (link)<\/p><p>Terms and Conditions (link)<\/p><p>Shipping Policy (link)<\/p><p><\/p><p><\/p>",
+              "text": "<p><a href=\"\/pages\/payment-policy\" title=\"Payment Policy\">Payment Policy<\/a> (link)<\/p><p><a href=\"\/pages\/return-and-paments-policy\" title=\"Return Policy\">Return Policy<\/a> (link)<\/p><p><a href=\"\/pages\/payment-policy\" title=\"Payment Policy\">Privacy Policy<\/a> (link)<\/p><p><a href=\"\/pages\/terms-and-conditions\" title=\"Terms and Conditions\">Terms and Conditions<\/a> (link)<\/p><p><a href=\"\/pages\/shipping-policy\" title=\"Shipping Policy\">Shipping Policy<\/a> (link)<\/p><p><\/p><p><\/p>",
               "container_width": 20
             }
           }

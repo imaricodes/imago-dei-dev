@@ -144,7 +144,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Policies",
-              "text": "<p>Payment & Return Policy (link)<\/p><p>Privacy Policy (link)<\/p><p>Terms and Conditions (link)<\/p><p>Shipping Policy (link)<\/p><p><\/p><p><\/p>",
+              "text": "<p>Payment Policy (link)<\/p><p>Return Policy (link)<\/p><p>Privacy Policy (link)<\/p><p>Terms and Conditions (link)<\/p><p>Shipping Policy (link)<\/p><p><\/p><p><\/p>",
               "container_width": 20
             }
           }

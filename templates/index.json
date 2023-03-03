@@ -123,82 +123,6 @@
         "divider": false
       }
     },
-    "featured-collections": {
-      "type": "featured-collections",
-      "disabled": true,
-      "blocks": {
-        "1499789718857-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "frontpage",
-            "focal_point": "center center",
-            "size": "wide"
-          }
-        },
-        "1499789718857-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "the-hours-collection",
-            "focal_point": "center center",
-            "size": "wide"
-          }
-        },
-        "1499789718857-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "1499789718857-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "1499789718857-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "1499789718857-5": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "wide"
-          }
-        },
-        "5cc961ae-bdb1-457c-b202-7ede968c3148": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        }
-      },
-      "block_order": [
-        "1499789718857-0",
-        "1499789718857-1",
-        "1499789718857-2",
-        "1499789718857-3",
-        "1499789718857-4",
-        "1499789718857-5",
-        "5cc961ae-bdb1-457c-b202-7ede968c3148"
-      ],
-      "settings": {
-        "title": "",
-        "divider": false,
-        "enable_gutter": false
-      }
-    },
     "f86411fe-3d84-4f51-812b-bd53cfd30369": {
       "type": "featured-product",
       "disabled": true,
@@ -293,7 +217,7 @@
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "the-anubis-collection",
             "focal_point": "center center",
             "size": "wide"
           }
@@ -301,7 +225,7 @@
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-5": {
           "type": "collection",
           "settings": {
-            "collection": "the-anubis-collection",
+            "collection": "the-isis-collection",
             "focal_point": "center center",
             "size": "wide"
           }
@@ -309,18 +233,17 @@
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "the-osiris-collection",
             "focal_point": "center center",
             "size": "wide"
           }
         },
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-3": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "collection": "",
+            "collection": "the-ra-collection",
             "focal_point": "center center",
-            "size": "square-small"
+            "size": "wide"
           }
         },
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-4": {
@@ -355,7 +278,6 @@
     "986edf62-7ca0-412f-af0f-fbf6c992ac44",
     "5170a3af-db6a-4a66-8a93-97c1d380e6a9",
     "999f45ff-90d7-45a1-b05c-800f3da26a57",
-    "featured-collections",
     "f86411fe-3d84-4f51-812b-bd53cfd30369",
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",
     "cd461e36-f7a5-4507-81bc-b9925b1bfa7f",

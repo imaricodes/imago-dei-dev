@@ -11,7 +11,7 @@
             "subheading": "And an optional subheading",
             "link": "",
             "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
+            "text_align": "vertical-bottom horizontal-center",
             "image": "shopify:\/\/shop_images\/imago-dei-hero-img-test3.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,

@@ -6,32 +6,15 @@
         "1498501481980-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/imago-dei-hero-img-test1.jpg",
             "focal_point": "center center",
             "slide_title1": "Beautifully animated",
             "slide_title2": "titles and images"
           }
-        },
-        "1498501481980-1": {
-          "type": "image",
-          "settings": {
-            "focal_point": "center center",
-            "slide_title1": "Use this section",
-            "slide_title2": "to impress"
-          }
-        },
-        "1498501481980-2": {
-          "type": "image",
-          "settings": {
-            "focal_point": "center center",
-            "slide_title1": "And highlight",
-            "slide_title2": "important details"
-          }
         }
       },
       "block_order": [
-        "1498501481980-0",
-        "1498501481980-1",
-        "1498501481980-2"
+        "1498501481980-0"
       ],
       "settings": {
         "title_lines": "2",

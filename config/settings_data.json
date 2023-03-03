@@ -141,6 +141,7 @@
           },
           "07396db0-2e27-4de2-8c1c-5d77ebbf125d": {
             "type": "custom",
+            "disabled": true,
             "settings": {
               "show_footer_title": true,
               "title": "Policies",

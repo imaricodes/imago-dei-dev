@@ -1,7 +1,69 @@
 {
   "sections": {
+    "1e15a24c-04f9-4fcc-a541-defc9de86ace": {
+      "type": "slideshow",
+      "blocks": {
+        "1c38e762-a8c8-4d8d-afac-2dbd87062d60": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/imago-dei-hero-img-test2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16668716663019__1e15a24c-04f9-4fcc-a541-defc9de86ace-167786752346201cea-0": {
+          "type": "image",
+          "settings": {
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16668716663019__1e15a24c-04f9-4fcc-a541-defc9de86ace-167786752346201cea-1": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1c38e762-a8c8-4d8d-afac-2dbd87062d60",
+        "template--16668716663019__1e15a24c-04f9-4fcc-a541-defc9de86ace-167786752346201cea-0",
+        "template--16668716663019__1e15a24c-04f9-4fcc-a541-defc9de86ace-167786752346201cea-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
     "fading-images": {
       "type": "fading-images",
+      "disabled": true,
       "blocks": {
         "1498501481980-0": {
           "type": "image",
@@ -245,6 +307,7 @@
     }
   },
   "order": [
+    "1e15a24c-04f9-4fcc-a541-defc9de86ace",
     "fading-images",
     "65fa6c20-ee11-44aa-bc92-419243905f73",
     "collection-callout",

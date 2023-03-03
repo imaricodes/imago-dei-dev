@@ -82,9 +82,9 @@
       "type": "collection-callout",
       "disabled": true,
       "settings": {
-        "collection": "the-hours-collection",
-        "subtitle": "Brand new",
-        "title": "The Horus Collection",
+        "collection": "the-isis-collection",
+        "subtitle": "",
+        "title": "The Isis Collection",
         "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
         "cta_text1": "Shop",
         "cta_link1": "",

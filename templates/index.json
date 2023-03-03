@@ -245,15 +245,6 @@
             "focal_point": "center center",
             "size": "wide"
           }
-        },
-        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-4": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
         }
       },
       "block_order": [
@@ -261,13 +252,12 @@
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-1",
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-5",
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-2",
-        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-3",
-        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-4"
+        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-3"
       ],
       "settings": {
         "title": "Imago Dei Collections",
         "divider": true,
-        "enable_gutter": false
+        "enable_gutter": true
       }
     }
   },

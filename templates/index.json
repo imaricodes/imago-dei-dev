@@ -1,27 +1,74 @@
 {
   "sections": {
-    "hero-video": {
-      "type": "hero-video",
+    "fading-images": {
+      "type": "fading-images",
+      "blocks": {
+        "1498501481980-0": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Beautifully animated",
+            "slide_title2": "titles and images"
+          }
+        },
+        "1498501481980-1": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Use this section",
+            "slide_title2": "to impress"
+          }
+        },
+        "1498501481980-2": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "And highlight",
+            "slide_title2": "important details"
+          }
+        }
+      },
+      "block_order": [
+        "1498501481980-0",
+        "1498501481980-1",
+        "1498501481980-2"
+      ],
       "settings": {
-        "title": "Bring your\nbrand to life.",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Watch",
-        "link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "overlay_opacity": 0,
-        "section_height": "650px",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
         "mobile_height": "auto"
+      }
+    },
+    "65fa6c20-ee11-44aa-bc92-419243905f73": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "the-anubis-collection",
+        "subtitle": "",
+        "title": "The Anubis Collection",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop",
+        "cta_link1": "shopify:\/\/collections\/the-anubis-collection",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
       }
     },
     "collection-callout": {
       "type": "collection-callout",
-      "disabled": true,
       "settings": {
         "collection": "the-hours-collection",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
+        "subtitle": "",
+        "title": "The Horus Collection",
         "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
         "cta_text1": "Shop",
         "cta_link1": "",
@@ -31,155 +78,19 @@
         "divider": false
       }
     },
-    "ed37d745-5cd4-4ccf-936e-ad59d8d14e85": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-1": {
-          "type": "separator",
-          "settings": {
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-2": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        },
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-4": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-0",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-1",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-2",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-3",
-        "template--16668692775147__ed37d745-5cd4-4ccf-936e-ad59d8d14e85-166862108166812c9c-4"
-      ],
-      "settings": {
-        "featured_product": "anubis-glasses",
-        "divider": false,
-        "sku_enable": false,
-        "image_size": "large",
-        "product_zoom_enable": true,
-        "thumbnail_position": "beside",
-        "thumbnail_arrows": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted"
-      }
-    },
-    "featured-collection-switcher": {
-      "type": "featured-collection-switcher",
+    "986edf62-7ca0-412f-af0f-fbf6c992ac44": {
+      "type": "collection-callout",
       "disabled": true,
       "settings": {
-        "title": "Most popular",
-        "collection1": "",
-        "collection2": "",
-        "per_row": 4,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "88d56c83-0f0b-4a44-81f5-2cb3c21a05ac": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-0": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-1": {
-          "type": "separator",
-          "settings": {
-          }
-        },
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-2": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        },
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-4": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-0",
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-1",
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-2",
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-3",
-        "template--16668692775147__88d56c83-0f0b-4a44-81f5-2cb3c21a05ac-16686212483ac98442-4"
-      ],
-      "settings": {
-        "featured_product": "osiris",
-        "divider": false,
-        "sku_enable": false,
-        "image_size": "large",
-        "product_zoom_enable": true,
-        "thumbnail_position": "beside",
-        "thumbnail_arrows": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted"
-      }
-    },
-    "rich-text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
+        "collection": "the-hours-collection",
+        "subtitle": "Brand new",
+        "title": "The Horus Collection",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop",
+        "cta_link1": "",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
         "divider": false
       }
     },
@@ -259,71 +170,6 @@
         "enable_gutter": false
       }
     },
-    "fading-images": {
-      "type": "fading-images",
-      "disabled": true,
-      "blocks": {
-        "1498501481980-0": {
-          "type": "image",
-          "settings": {
-            "focal_point": "center center",
-            "slide_title1": "Beautifully animated",
-            "slide_title2": "titles and images"
-          }
-        },
-        "1498501481980-1": {
-          "type": "image",
-          "settings": {
-            "focal_point": "center center",
-            "slide_title1": "Use this section",
-            "slide_title2": "to impress"
-          }
-        },
-        "1498501481980-2": {
-          "type": "image",
-          "settings": {
-            "focal_point": "center center",
-            "slide_title1": "And highlight",
-            "slide_title2": "important details"
-          }
-        }
-      },
-      "block_order": [
-        "1498501481980-0",
-        "1498501481980-1",
-        "1498501481980-2"
-      ],
-      "settings": {
-        "title_lines": "2",
-        "title_font": "body",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "background-image-text": {
-      "type": "background-image-text",
-      "disabled": true,
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image and text",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 650,
-        "parallax": true,
-        "parallax_direction": "top"
-      }
-    },
     "f86411fe-3d84-4f51-812b-bd53cfd30369": {
       "type": "featured-product",
       "disabled": true,
@@ -378,160 +224,6 @@
         "thumbnail_arrows": false,
         "enable_video_looping": true,
         "product_video_style": "muted"
-      }
-    },
-    "607be48a-b728-4766-a3e8-6ac3c6523022": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-0": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-1": {
-          "type": "separator",
-          "settings": {
-          }
-        },
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-2": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        },
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-4": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-0",
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-1",
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-2",
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-3",
-        "template--16668692775147__607be48a-b728-4766-a3e8-6ac3c6523022-16686213155f0a019d-4"
-      ],
-      "settings": {
-        "featured_product": "ra",
-        "divider": false,
-        "sku_enable": false,
-        "image_size": "large",
-        "product_zoom_enable": true,
-        "thumbnail_position": "beside",
-        "thumbnail_arrows": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted"
-      }
-    },
-    "808643b9-9ab5-4ef0-9c85-72e612494f2f": {
-      "type": "featured-collections",
-      "disabled": true,
-      "blocks": {
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "wide"
-          }
-        },
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-5": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "wide"
-          }
-        }
-      },
-      "block_order": [
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-0",
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-1",
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-2",
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-3",
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-4",
-        "template--16668716663019__808643b9-9ab5-4ef0-9c85-72e612494f2f-167354821122d138b0-5"
-      ],
-      "settings": {
-        "title": "Collection list",
-        "divider": false,
-        "enable_gutter": false
-      }
-    },
-    "986edf62-7ca0-412f-af0f-fbf6c992ac44": {
-      "type": "collection-callout",
-      "disabled": true,
-      "settings": {
-        "collection": "the-hours-collection",
-        "subtitle": "Brand new",
-        "title": "The Horus Collection",
-        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop",
-        "cta_link1": "",
-        "cta_text2": "",
-        "cta_link2": "",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "65fa6c20-ee11-44aa-bc92-419243905f73": {
-      "type": "collection-callout",
-      "settings": {
-        "collection": "the-anubis-collection",
-        "subtitle": "Brand new",
-        "title": "The Anubis Collection",
-        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop",
-        "cta_link1": "shopify:\/\/collections\/the-anubis-collection",
-        "cta_text2": "",
-        "cta_link2": "",
-        "layout": "right",
-        "divider": false
       }
     },
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474": {
@@ -628,20 +320,12 @@
     }
   },
   "order": [
-    "hero-video",
-    "collection-callout",
-    "ed37d745-5cd4-4ccf-936e-ad59d8d14e85",
-    "featured-collection-switcher",
-    "88d56c83-0f0b-4a44-81f5-2cb3c21a05ac",
-    "rich-text",
-    "featured-collections",
     "fading-images",
-    "background-image-text",
-    "f86411fe-3d84-4f51-812b-bd53cfd30369",
-    "607be48a-b728-4766-a3e8-6ac3c6523022",
-    "808643b9-9ab5-4ef0-9c85-72e612494f2f",
-    "986edf62-7ca0-412f-af0f-fbf6c992ac44",
     "65fa6c20-ee11-44aa-bc92-419243905f73",
+    "collection-callout",
+    "986edf62-7ca0-412f-af0f-fbf6c992ac44",
+    "featured-collections",
+    "f86411fe-3d84-4f51-812b-bd53cfd30369",
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",
     "cd461e36-f7a5-4507-81bc-b9925b1bfa7f",
     "df00c690-2ae4-4800-bcce-f0a45a13e8a9"

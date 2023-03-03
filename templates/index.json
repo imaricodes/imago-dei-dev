@@ -80,7 +80,6 @@
     },
     "986edf62-7ca0-412f-af0f-fbf6c992ac44": {
       "type": "collection-callout",
-      "disabled": true,
       "settings": {
         "collection": "the-isis-collection",
         "subtitle": "",
@@ -89,6 +88,21 @@
         "cta_text1": "Shop",
         "cta_link1": "",
         "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "5170a3af-db6a-4a66-8a93-97c1d380e6a9": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "the-osiris-collection",
+        "subtitle": "",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "",
+        "cta_link1": "",
+        "cta_text2": "Shop",
         "cta_link2": "",
         "layout": "right",
         "divider": false
@@ -324,6 +338,7 @@
     "65fa6c20-ee11-44aa-bc92-419243905f73",
     "collection-callout",
     "986edf62-7ca0-412f-af0f-fbf6c992ac44",
+    "5170a3af-db6a-4a66-8a93-97c1d380e6a9",
     "featured-collections",
     "f86411fe-3d84-4f51-812b-bd53cfd30369",
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",

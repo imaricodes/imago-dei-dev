@@ -6,11 +6,11 @@
         "1c38e762-a8c8-4d8d-afac-2dbd87062d60": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide title.",
-            "title_size": 80,
+            "title": "",
+            "title_size": 85,
             "subheading": "And an optional subheading",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/imago-dei-hero-img-test2.jpg",
             "parallax_direction": "top",

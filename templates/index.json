@@ -108,6 +108,21 @@
         "divider": false
       }
     },
+    "999f45ff-90d7-45a1-b05c-800f3da26a57": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "the-ra-collection",
+        "subtitle": "",
+        "title": "The Ra Collection",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "",
+        "cta_link1": "",
+        "cta_text2": "Shop",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "disabled": true,
@@ -339,6 +354,7 @@
     "collection-callout",
     "986edf62-7ca0-412f-af0f-fbf6c992ac44",
     "5170a3af-db6a-4a66-8a93-97c1d380e6a9",
+    "999f45ff-90d7-45a1-b05c-800f3da26a57",
     "featured-collections",
     "f86411fe-3d84-4f51-812b-bd53cfd30369",
     "2b6a3e65-62c5-4eed-bfc0-cc35e7649474",

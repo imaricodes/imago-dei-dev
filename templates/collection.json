@@ -5,6 +5,7 @@
       "blocks": {
         "69b1b9ad-82a4-4576-b902-13ab0d82f4a1": {
           "type": "collection_description",
+          "disabled": true,
           "settings": {
           }
         },

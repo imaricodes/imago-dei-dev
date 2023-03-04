@@ -68,7 +68,7 @@
           "main_menu_alignment": "left-center",
           "header_sticky": false,
           "sticky_index": false,
-          "sticky_collection": false,
+          "sticky_collection": true,
           "show_announcement": false,
           "announcement_text": "Free shipping and returns",
           "announcement_link": "",

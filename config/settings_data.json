@@ -42,6 +42,7 @@
     "social_instagram_link": "www.instagram.com",
     "share_twitter": false,
     "share_pinterest": false,
+    "favicon": "shopify:\/\/shop_images\/imago-dei-favicon-32x32.png",
     "checkout_header_image": "",
     "checkout_logo_image": "",
     "checkout_logo_position": "left",

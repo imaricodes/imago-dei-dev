@@ -13,6 +13,7 @@
             "link_text": "",
             "text_align": "vertical-bottom horizontal-center",
             "image": "shopify:\/\/shop_images\/imago-dei-hero-img-test-4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/imago-dei-hero-image-mobile-test-1.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"

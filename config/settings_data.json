@@ -65,6 +65,9 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          ".site-header {border-bottom: none; border-bottom-color: #e8e8e1;}"
+        ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/header-logo-horizontal-841w.png",
           "desktop_logo_width": 200,

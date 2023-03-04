@@ -38,6 +38,8 @@
     "animate_buttons": true,
     "animate_underlines": true,
     "cart_type": "drawer",
+    "social_facebook_link": "www.facebook.com",
+    "social_instagram_link": "www.instagram.com",
     "checkout_header_image": "",
     "checkout_logo_image": "",
     "checkout_logo_position": "left",

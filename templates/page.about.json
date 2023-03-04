@@ -2,6 +2,7 @@
   "sections": {
     "5ccbb04e-7f1a-4502-a80b-782b78c4d2b9": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image_width": 700,
         "subtitle": "",

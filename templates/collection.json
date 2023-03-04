@@ -3,7 +3,7 @@
     "main-collection": {
       "type": "main-collection",
       "blocks": {
-        "collection_description": {
+        "69b1b9ad-82a4-4576-b902-13ab0d82f4a1": {
           "type": "collection_description",
           "settings": {
           }
@@ -11,14 +11,25 @@
         "product_grid": {
           "type": "product_grid",
           "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 4,
+            "mobile_flush_grid": false
           }
         }
       },
       "block_order": [
-        "collection_description",
+        "69b1b9ad-82a4-4576-b902-13ab0d82f4a1",
         "product_grid"
       ],
       "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "enable_sidebar": false,
+        "collapsed": true,
+        "enable_color_swatches": false,
+        "enable_sort": false
       }
     }
   },

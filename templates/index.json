@@ -66,7 +66,6 @@
     },
     "fading-images": {
       "type": "fading-images",
-      "disabled": true,
       "blocks": {
         "1498501481980-0": {
           "type": "image",
@@ -81,6 +80,7 @@
       "block_order": [
         "1498501481980-0"
       ],
+      "disabled": true,
       "settings": {
         "title_lines": "2",
         "title_font": "body",
@@ -116,7 +116,7 @@
       "settings": {
         "collection": "the-hours-collection",
         "subtitle": "",
-        "title": "The Horus Collection",
+        "title": "The Shu Collection",
         "text": "",
         "cta_text1": "Shop",
         "cta_link1": "shopify:\/\/collections\/the-hours-collection",
@@ -173,7 +173,6 @@
     },
     "f86411fe-3d84-4f51-812b-bd53cfd30369": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--16668692775147__f86411fe-3d84-4f51-812b-bd53cfd30369-16686213155f0a019d-0": {
           "type": "price",
@@ -215,6 +214,7 @@
         "template--16668692775147__f86411fe-3d84-4f51-812b-bd53cfd30369-16686213155f0a019d-3",
         "template--16668692775147__f86411fe-3d84-4f51-812b-bd53cfd30369-16686213155f0a019d-4"
       ],
+      "disabled": true,
       "settings": {
         "featured_product": "copy-of-sample-specs-2",
         "divider": false,
@@ -254,14 +254,6 @@
     "df00c690-2ae4-4800-bcce-f0a45a13e8a9": {
       "type": "featured-collections",
       "blocks": {
-        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "the-hours-collection",
-            "focal_point": "center center",
-            "size": "wide"
-          }
-        },
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-1": {
           "type": "collection",
           "settings": {
@@ -296,7 +288,6 @@
         }
       },
       "block_order": [
-        "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-0",
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-1",
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-5",
         "template--16668716663019__df00c690-2ae4-4800-bcce-f0a45a13e8a9-1673548453042c1c8d-2",

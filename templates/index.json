@@ -6,13 +6,13 @@
         "1c38e762-a8c8-4d8d-afac-2dbd87062d60": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 85,
+            "title": "IMAGO DEI OPTICS",
+            "title_size": 60,
             "subheading": "IMAGE OF GOD",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/imago-dei-hero-img-test-4.jpg",
+            "image": "shopify:\/\/shop_images\/1_new_9c9f9da4-58da-4771-a43e-c2199ac50830.png",
             "image_mobile": "shopify:\/\/shop_images\/imago-dei-hero-image-mobile-test-1.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -56,9 +56,9 @@
         "template--16668716663019__1e15a24c-04f9-4fcc-a541-defc9de86ace-167786752346201cea-1"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "450px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "arrows",
         "autoplay": true,
         "autoplay_speed": 5
